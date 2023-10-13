@@ -1,0 +1,39 @@
+<nav id='menu'>
+    <input type='checkbox' id='responsive-menu' onclick='updatemenu()'><label></label>
+    <ul>
+      <li><a href='http://'<Inicio</a></li>
+      <li><a class='dropdown-arrow' href='http://'>¿Como le podemos ayudar?</a>
+        <ul class='sub-menus'>
+          <li><a href='http://'>Fallos en el hardware</a></li>
+          <li><a href='http://'>Fallos en el software</a></li>
+          <li><a href='http://'>Ofimatica</a></li>
+          
+        </ul>
+      </li>
+      <li><a href='http://'>Sobre nosotros</a></li>
+        </ul>
+      </li>
+      <li><a href='http://'>Contacto</a></li>
+    </ul>
+  </nav>
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+<button>pure</button>
+<title>Casa del ordenador</title> 
+
+</head> 
+<nav>
+
+<li><a href="#">pure</a></li>
+
+</nav>
+<body> 
+<p><h1 align="center"><u>La Casa del ordenador</u></h1></p>
+<p>
+Ofimática (acrónimo de oficina y de informática), a veces también llamado burótica,​ designa al conjunto de técnicas, aplicaciones y herramientas informáticas que se utilizan en funciones de oficina para optimizar, automatizar, mejorar tareas y procedimientos relacionados. Las herramientas ofimáticas permiten idear, crear, manipular, transmitir o almacenar la información necesaria en una oficina.
+
+Comenzó a desarrollarse en la década de los 70, con la masificación de los equipos de oficina que comienzan a incluir microprocesadores, dejándose de usar métodos y herramientas por otras más modernas..</p>
+
